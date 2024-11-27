@@ -76,8 +76,3 @@ background-size: cover;
 background-repeat: no-repeat;
 /* mix-blend-mode: soft-light; */
 }
-
-.app-root {
-  display: flex;
-  min-height: 100vh;
-}
