@@ -64,3 +64,15 @@
     @apply bg-background text-foreground;
   }
 }
+
+.radial-bg{
+  background: radial-gradient(100% 100% at 50% 100%, #282828 0%, #09090B 100%);
+}
+
+.green-bg{
+background-image: url('/noise.png'), linear-gradient(90deg, #66D066, rgba(102, 208, 102, 0.75));
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+/* mix-blend-mode: soft-light; */
+}
