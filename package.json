@@ -29,6 +29,8 @@
     "typescript": "^5.7.2"
   },
   "devDependencies": {
-    "daisyui": "^4.12.14"
+    "@tailwindcss/typography": "^0.5.15",
+    "daisyui": "^4.12.14",
+    "tailwind-scrollbar": "^3.1.0"
   }
 }
