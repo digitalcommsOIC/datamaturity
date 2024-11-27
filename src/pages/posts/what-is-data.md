@@ -30,12 +30,6 @@ Don’t worry if you’re not that confident or knowledgeable about data. The as
 
 ## Where can I find out more?
 
-The lead person for this work at Orkney Islands Council is
-
-William Moore 
-Service Manager (Improvement and Performance) 
-Strategy, Performance and Business Solutions 
-Tel: 01856 873535 Ext 2104 
-Email: [william.moore@orkney.gov.uk](mailto:william.moore@orkney.gov.uk)
+For more information, contact William Moore, Improvement and Performance Service Manager, on [01856 873535, Ext. 2104](tel:0185687335) or at [william.moore@orkney.gov.uk](mailto:william.moore@orkney.gov.uk).
 
 To find out more about data maturity visit [dataorchard.org.uk/what-is-data-maturity](https://www.dataorchard.org.uk/what-is-data-maturity)
