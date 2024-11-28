@@ -4,6 +4,8 @@ title: 'What is data maturity?'
 pubDate: 2022-11-27
 description: 'Data is part of almost everyone’s job in one way or another - whether we know it or not'
 ---
+Data maturity is about how well an organisation collects, manages, and uses its information to make decisions and improve services. It’s a journey that helps organisations move from basic data handling to using information in smarter, more strategic ways. Whether it’s about tracking performance, understanding the needs of the people we serve, or planning for the future, improving data maturity helps us work more effectively and make better decisions.
+
 Data is part of almost everyone’s job in one way or another. It has become one of the most important resources for delivering effective services. Yet getting the right data, in the right way, to the right people, and at the right time is a challenge.
 
 We know that to make the best of data we need to work together.  We’re working on a Data strategy and want to listen to everyone’s views so we can focus on what’s important.
