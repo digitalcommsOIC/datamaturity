@@ -6,11 +6,11 @@ description: 'Data is part of almost everyone’s job in one way or another - wh
 ---
 Data is part of almost everyone’s job in one way or another. It has become one of the most important resources for delivering effective services. Yet getting the right data, in the right way, to the right people, and at the right time is a challenge.
 
-We know that to make the best of data at Orkney Islands Council, we need to work together.  We’re working on a Data strategy and want to listen to everyone’s views so we can focus on what’s important. So, love it or hate it, we really need you to be involved.
+We know that to make the best of data we need to work together.  We’re working on a Data strategy and want to listen to everyone’s views so we can focus on what’s important.
 
 We’re going to assess our data maturity and focus on improvement. Data maturity is an organisation’s journey towards improvement and increased capability in using data. We’ll be using a data maturity assessment tool (developed by [Data Orchard](https://www.dataorchard.org.uk/)) which has previously been used to benchmark hundreds of not-for-profit sector organisations: including local, regional, national and public sector.
 
-<!-- ![Data Maturity Framework](/images/Screenshot-2024-11-27-194433.png) -->
+![Data Maturity Framework](/images/dmf.webp)
 
 ## What's involved?
 
