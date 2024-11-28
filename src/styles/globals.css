@@ -76,3 +76,9 @@ background-size: cover;
 background-repeat: no-repeat;
 /* mix-blend-mode: soft-light; */
 }
+
+.nav-link{
+  color: white !important;
+  text-decoration: none !important;
+  font-weight:400 !important;
+}
