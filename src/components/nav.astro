@@ -1,0 +1,27 @@
+---
+const { marginBottom } = Astro.props;
+---
+
+<header class={`hidden lg:navbar ${marginBottom}`}>
+    <div class="navbar-start">
+        <a href="./" aria-label="Home" class="hover:scale-105 hover:drop-shadow-lg duration-300"><img src="./OIC-Logo-Landscape-w.webp"/></a>
+    </div>
+    
+    <h1 class="text-2xl text-white navbar-center font-normal mb-0">Data Maturity Programme</h1>
+
+    <div class="navbar-end">
+        <!-- <div class="dropdown dropdown-bottom dropdown-end">
+            <div tabindex="0" role="button" class="btn-ghost rounded-full transition-all duration-300 p-2 mb-2">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="white" class="size-5">
+                    <path fill-rule="evenodd" d="M2 4.75A.75.75 0 0 1 2.75 4h14.5a.75.75 0 0 1 0 1.5H2.75A.75.75 0 0 1 2 4.75ZM2 10a.75.75 0 0 1 .75-.75h14.5a.75.75 0 0 1 0 1.5H2.75A.75.75 0 0 1 2 10Zm0 5.25a.75.75 0 0 1 .75-.75h14.5a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1-.75-.75Z" clip-rule="evenodd" />
+                </svg>					  
+            </div>
+            <ul tabindex="0" class="dropdown-content menu bg-base-100 rounded-box z-[1] w-52 p-2 shadow text-white">
+              <li><a>Item 1</a></li>
+              <li><a>Item 2</a></li>
+            </ul>
+        </div> -->
+    </div>
+</header>
+
+<header class={`lg:hidden flex text-white justify-center text-center ${marginBottom}`}>Data Maturity Programme</header>

@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: 'What is data?'
+title: 'What is data maturity?'
 pubDate: 2022-11-27
 description: 'Data is part of almost everyone’s job in one way or another - whether we know it or not'
 ---
