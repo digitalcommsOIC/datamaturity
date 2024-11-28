@@ -10,7 +10,7 @@ We know that to make the best of data we need to work together.  We’re working
 
 We’re going to assess our data maturity and focus on improvement. Data maturity is an organisation’s journey towards improvement and increased capability in using data. We’ll be using a data maturity assessment tool (developed by [Data Orchard](https://www.dataorchard.org.uk/)) which has previously been used to benchmark hundreds of not-for-profit sector organisations: including local, regional, national and public sector.
 
-![Data Maturity Framework](/images/dmf.webp)
+![Data Maturity Framework](https://digitalcommsoic.github.io/datamaturity/images/dmf.webp)
 
 ## What's involved?
 
