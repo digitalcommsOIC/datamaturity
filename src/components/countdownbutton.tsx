@@ -57,7 +57,7 @@ const CountdownToSurvey = () => {
         target="_blank"
         rel="noopener noreferrer"
         aria-label="Take the survey"
-        className="text-white flex flex-row gap-2 items-center bg-white bg-opacity-25 py-2 px-4 rounded-full border-solid border-[1px] border-white hover:scale-105 duration-300"
+        className="text-white flex flex-row gap-2 items-center bg-white bg-opacity-25 py-2 px-4 rounded-full border-solid border-[1px] border-white hover:scale-105 transition-all active:scale-95"
         href="https://datamaturity.dataorchard.org.uk/20-minute/sign-up/9caaec2a-fc00-4fb8-9b34-dae394f46ec8"
       >
         Take the survey
