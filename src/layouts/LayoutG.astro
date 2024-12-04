@@ -78,8 +78,22 @@ const { title } = Astro.props;
 		text-decoration: underline;
 	}
 
-	a:visited {
-		color: #66D066;
-		opacity: 0.8;
+	ul{
+		list-style: disc;
+		padding-inline-start: 20px;
 	}
+
+	ol{
+		list-style: decimal;
+		padding-inline-start: 20px;
+	}
+
+	li{
+		margin-bottom: 6px;
+	}
+
+	li::marker{
+		font-weight: bold;
+	}
+
 </style>
