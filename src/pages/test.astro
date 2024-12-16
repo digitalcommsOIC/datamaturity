@@ -1,0 +1,16 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Nav from '../components/nav.astro'
+import RadarChartComponent from '@/components/RadarChartComponent'
+---
+
+<Layout title="Our journey to data maturity">
+	<main class="size-full flex flex-col">
+		<Nav marginBottom="mb-0"/>
+
+		<div class="w-full">
+        	<RadarChartComponent client:only="react" />
+		</div>
+
+	</main>
+</Layout>
